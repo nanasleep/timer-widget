@@ -1,6 +1,6 @@
 // sw.js (Service Worker)
 
-const CACHE_NAME = 'widget-sayangku-v1'; // Nama cache, ubah jika ada update aset
+const CACHE_NAME = 'widget-personal'; // Nama cache, ubah jika ada update aset
 const urlsToCache = [
     '/', // Ini penting untuk meng-cache root folder
     'index.html',
